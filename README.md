@@ -8,6 +8,6 @@
 * ipaddress
 
 # Quickstart
-6RIS consists of three commands：
+6RIS consists of two commands：
 1. Data preparation
 2. Load pre trained model for IPv6 address correlation

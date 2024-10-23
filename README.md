@@ -10,6 +10,9 @@
 # Quickstart
 6RIS consists of two commands：
 1. Data preparation
+
+Process the data into the format of *data_demo.json*, which contains data with two addresses.
+
 2. Load pre trained model for IPv6 address correlation
 
 ```

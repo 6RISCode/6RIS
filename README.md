@@ -6,6 +6,7 @@
 * Torch 1.8.1
 * Scikit-learn
 * ipaddress
+* numpy 1.21.5
 
 # Quickstart
 6RIS consists of two commands：

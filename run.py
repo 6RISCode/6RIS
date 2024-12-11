@@ -37,6 +37,7 @@ test_dataloader = DataLoader(test_dataset, batch_size=batch_size, shuffle=True)
 
 # Load Model 
 test_model = torch.load(model_save_path)
+print(test_model)
 test_model.eval()
 with torch.no_grad():
     for step, data in enumerate(test_dataloader):
